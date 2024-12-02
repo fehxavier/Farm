@@ -184,7 +184,7 @@ button:active,
     }
 }
 .page-container {
-    background-image: url('./assets/fazenda.jpg');
+    background-image: url('../fazenda.jpg');
     background-size: cover;
     background-position: center;
     position: relative; /* Necessário para o ::before funcionar corretamente */
